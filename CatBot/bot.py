@@ -17,4 +17,4 @@ if __name__ == '__main__':
         client.load_extension(extension)
         print(f'{extension} Loaded')
 
-client.run('Njg5NTAwMDQwMTY2ODk5ODE5.Xtx4fA.W_8gesFfPDqoUxsbQpwgvAYeQjA')
+client.run('Token')
